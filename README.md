@@ -2,8 +2,22 @@
 
 this static my activity programming with github
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=islaturrahman&show_icons=true&theme=radical)](https://github.com/islaturrahman)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islaturrahman&langs_count=8)](https://github.com/islaturrahmman)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=islaturrahman)](https://github.com/islaturrahman)
+<div>
+<a href="https://github.com/islaturrahman">
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=islaturrahman&show_icons=true&theme=radical" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islaturrahman&langs_count=6&custom_title=My%Languages&theme=radical&layout=compact" />
+</a>
+  
+  
+  
+</div>
+
+
+
+
+
