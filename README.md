@@ -1,8 +1,5 @@
 #Hello There 👋 
 
-this static my activity programming with github
-
-
 
 <div>
 <a href="https://github.com/islaturrahman">
